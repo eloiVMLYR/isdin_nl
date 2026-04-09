@@ -2,10 +2,10 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
-$to = "eloiv@lliures.cat";
-$subject = "Prova Newsletter amb imatges";
+$to = "eloi.vaque@vml.com";
+$subject = "Prueba Newsletter Antiarrugas ISDIN";
 $from = "eloiv@lliures.cat";
-$fromName = "Prova Newsletter";
+$fromName = "Eloi";
 
 // Carreguem l'HTML
 $htmlFile = "newsletter1.html";
