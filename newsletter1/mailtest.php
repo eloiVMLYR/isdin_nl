@@ -3,10 +3,10 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 $to = "eloi.vaque@vml.com";
-//$to = "eloiv@lliures.cat";
+$to = "eloiv@lliures.cat";
 $subject = "Prueba Newsletter Antiarrugas ISDIN";
 $from = "eloiv@lliures.cat";
-$from = "eloi.vaque@vml.com";
+//$from = "eloi.vaque@vml.com";
 $fromName = "Eloi Vaqué";
 
 // Carreguem l'HTML
