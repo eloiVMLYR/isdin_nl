@@ -10,7 +10,7 @@ $from = "eloiv@lliures.cat";
 $fromName = "Eloi Vaqué";
 
 // Carreguem l'HTML
-$htmlFile = "newsletter8.html";
+$htmlFile = "newsletter9.html";
 if (!file_exists($htmlFile)) {
     die("Error: no es troba el fitxer HTML $htmlFile");
 }
