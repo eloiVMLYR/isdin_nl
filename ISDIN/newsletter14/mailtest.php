@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 
 $to = "eloi.vaque@vml.com";
 $to = "eloiv@lliures.cat";
-$subject = "Prueba Newsletter Antiarrugas ISDIN";
+$subject = "Prueba Newsletter ISDIN";
 $from = "eloiv@lliures.cat";
 //$from = "eloi.vaque@vml.com";
 $fromName = "Eloi Vaqué";
